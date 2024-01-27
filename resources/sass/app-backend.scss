@@ -1,0 +1,12 @@
+// Import external styles
+@import "/node_modules/@fortawesome/fontawesome-free/css/all.min.css";
+@import "/node_modules/simplebar/dist/simplebar.css";
+
+// Import backend-specific variables
+@import "backend_variables";
+
+// Import CoreUI styles
+@import "resources/vendors/coreui/src/scss/style.scss";
+
+// Import your custom styles
+@import "backend_custom";

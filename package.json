@@ -1,0 +1,37 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@coreui/coreui": "^4.3.2",
+        "@coreui/icons": "^2.1.0",
+        "@coreui/utils": "^2.0.1",
+        "@fortawesome/fontawesome-free": "^6.3.0",
+        "@popperjs/core": "^2.11.6",
+        "@tailwindcss/forms": "^0.5.3",
+        "@types/node": "^20.11.5",
+        "alpinejs": "^3.12.0",
+        "autoprefixer": "^10.4.2",
+        "axios": "^1.6.0",
+        "bootstrap": "^5.2.3",
+        "jquery": "^3.6.4",
+        "laravel-vite-plugin": "^0.7.3",
+        "perfect-scrollbar": "^1.5.5",
+        "postcss-import": "^15.1.0",
+        "postcss-loader": "^7.0.2",
+        "resolve-url-loader": "^5.0.0",
+        "sass": "^1.59.2",
+        "sass-loader": "^13.2.0",
+        "simplebar": "^6.2.1",
+        "tailwindcss": "^3.2.7",
+        "vite": "^4.5.1"
+    },
+    "dependencies": {
+        "-": "^0.0.1",
+        "@alpinejs/collapse": "^3.12.0",
+        "d": "^1.0.1",
+        "passport-facebook": "^3.0.0"
+    }
+}
